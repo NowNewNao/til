@@ -8,3 +8,5 @@ This repo contains ideas, memos or rough sketches from everyday learning.
 👽&nbsp;**[DDD](ddd/README.md)**  
 
 🦌&nbsp;**[TypeScript](typescript/README.md)**
+
+🔼&nbsp;**[Next.js](nextjs/README.md)**
