@@ -1,7 +1,5 @@
 # 🙂&nbsp;Overview
 
----
-
 ### What does DDD stand for?
 - Domain-Driven Design
 

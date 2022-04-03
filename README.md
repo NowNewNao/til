@@ -1,6 +1,5 @@
 # Today I learned
 
----
 This repo contains ideas, memos or rough sketches from everyday learning.
 
 ## Contents
