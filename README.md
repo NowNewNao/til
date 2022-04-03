@@ -9,3 +9,5 @@ This repo contains ideas, memos or rough sketches from everyday learning.
 🦌&nbsp;**[TypeScript](typescript/README.md)**
 
 🔼&nbsp;**[Next.js](nextjs/README.md)**
+
+🧙‍&nbsp;**[Git](git/README.md)**
