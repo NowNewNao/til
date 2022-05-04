@@ -14,3 +14,5 @@ This repo contains ideas, memos or rough sketches from everyday learning.
 
 🧙‍&nbsp;**[Git](git/README.md)**
 
+🐘&nbsp;**[PostgreSQL](postgresql/README.md)**
+
