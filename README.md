@@ -16,3 +16,5 @@ This repo contains ideas, memos or rough sketches from everyday learning.
 
 🐘&nbsp;**[PostgreSQL](postgresql/README.md)**
 
+🕊&nbsp;**[Flutter and Dart](flutter/README.md)**
+
