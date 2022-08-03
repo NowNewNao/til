@@ -15,3 +15,7 @@ Learning TypeScript basics
 
 ☝️&nbsp;These two are entirely independent. In other words, _code output is independent of type checking_.
 During compile, `interface`, `type`, and `type annotation` are removed from your code. So, **you cannot check type check on runtime**.
+
+## 🐌 Escaping apostrophe in single quoted string
+- Use `\`
+  - Example: `I\'m happy.`
