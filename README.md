@@ -3,6 +3,7 @@
 This repo contains ideas, memos or rough sketches from everyday learning.
 
 ## Contents
+🍱&nbsp;**[Misc](miscellaneous/README.md)**  
 
 👽&nbsp;**[DDD](ddd/README.md)**  
 
