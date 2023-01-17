@@ -19,3 +19,5 @@ This repo contains ideas, memos or rough sketches from everyday learning.
 
 🕊&nbsp;**[Flutter and Dart](flutter/README.md)**
 
+🛩️&nbsp;**[TailwindCSS](TailwindCSS/README.md)**
+
