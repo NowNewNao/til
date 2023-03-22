@@ -20,3 +20,4 @@ This repo contains ideas, memos or rough sketches from everyday learning.
 
 🛩️&nbsp;**[TailwindCSS](TailwindCSS/README.md)**
 
+🎿&nbsp;**[Jest](Jest/README.md)**
