@@ -1,5 +1,12 @@
 # 🎿Jest
 
+### Environment Variable
+If you used any environment variables in the tested code, you need to set it up for Jest as well.
+If you used jest-shim.js, you could add it there, otherwise, in `.env.test`.
+```ts
+process.env.YOUR_ENV_NAME = 'true';
+```
+
 ### Comparison methods
 It is called as Matchers in Jest
 
