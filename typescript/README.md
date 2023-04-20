@@ -1,6 +1,13 @@
 # 🦌&nbsp;TypeScript
 
-Learning TypeScript basics
+## TypeScript 5.0 Beta
+All release you can check [here](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0-beta/) 
+
+- [`const` Type Parameters](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0-beta/#const-type-parameters)
+TS5.0 recognises parameters for inference if we add const before the parameter
+Seems like handling of generics with literal values get easier and we would get more accurate error message
+
+
  
 ## 🙂&nbsp;Terminologies
 - `transpile`: Converting next-generation TypeScript/JavaScript to an old version of JavaScript that works in browsers
